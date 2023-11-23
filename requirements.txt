@@ -1,0 +1,11 @@
+h5py
+typing-extensions
+wheel
+mtcnn
+opencv-python
+Pillow
+numpy
+tqdm
+matplotlib
+notebook
+yolov5
