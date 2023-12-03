@@ -1,11 +1,20 @@
 h5py
 typing-extensions
 wheel
-mtcnn
 opencv-python
 Pillow
+scikit-learn
 numpy
 tqdm
 matplotlib
 notebook
-yolov5
+keras-facenet
+mtcnn
+tensorflow
+
+#pytorch ต้องติดตั้ง pytorch ก่อน
+
+#openmim
+#yolov5 
+#mim install mmcv
+#python -m pip install --upgrade pip
