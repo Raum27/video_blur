@@ -12,9 +12,8 @@ keras-facenet
 mtcnn
 tensorflow
 
-#pytorch ต้องติดตั้ง pytorch ก่อน
-
-#openmim
-#yolov5 
+#have to install pytorch before
+#pip install openmim
+#pip install yolov5 
 #mim install mmcv
 #python -m pip install --upgrade pip
