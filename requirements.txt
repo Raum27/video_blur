@@ -10,8 +10,8 @@ matplotlib
 notebook
 keras-facenet
 mtcnn
-tensorflow
 
+#tensorflow==2.13.0
 #have to install pytorch before
 #pip install openmim
 #pip install yolov5 
